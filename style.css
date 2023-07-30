@@ -1,0 +1,217 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.flexbox {
+  background-color: black;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-div {
+  justify-content: space-around;
+  width: 32%;
+}
+.second-div {
+  width: 30%;
+  margin-right: 30px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  list-style-type: none;
+  font-size: 19px;
+  font-family: Arial;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 30px;
+}
+.main-div {
+  background-color: white;
+  height: 80%;
+  width: 40%;
+  color: black;
+  margin-left: 100px;
+}
+h2 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.signup {
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  padding: 15px 25px 15px 25px;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+
+section {
+  background-image: url(assets/pic.1.jpg);
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  padding-top: 60px;
+}
+h2 {
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 52px;
+  padding-left: 50px;
+}
+.Focused{
+  margin-left: 100px;
+}
+.card-des {
+  padding-left: 50px;
+  font-size: 20px;
+}
+.para {
+  margin-top: 35px;
+  padding-left: 50px;
+  font-size: 20px;
+}
+.inner div {
+  background-image: url(assets/4.jpg);
+  height: 190px;
+  background-size: cover;
+  background-position: center;
+  padding: 56px 32px;
+}
+
+.heading {
+  padding-left: 50px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: white;
+}
+.paragraph {
+  padding-left: 50px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 20px;
+}
+.button {
+  margin-left: 50px;
+  border-radius: 10px;
+  padding: 15px 25px 15px 25px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+.flexbox2 {
+  display: flex;
+  justify-content: space-between;
+}
+.pic1 {
+  background-image: url(assets/pic.4.webp);
+  height: 374px;
+  width: 70%;
+  background-position: center;
+  background-size: cover;
+  margin-left: 150px;
+}
+.head1 {
+  margin-left: 150px;
+}
+.para1 {
+  margin-left: 150px;
+}
+.pic2 {
+  background-image: url(assets/pic.5.webp);
+  height: 374px;
+  width: 70%;
+  background-position: center;
+  background-size: cover;
+  margin-right: 200px;
+}
+.flexbox3 {
+  display: flex;
+  font-size: 20px;
+}
+.about {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.Newsroom {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.Global {
+  margin-left: 150px;
+  margin-top: 30px;
+  margin-right: 60px;
+}
+.second-last {
+  background-color: lightgray;
+  margin-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.second-last h2 {
+  margin-left: 150px;
+}
+.flexbox4 {
+  display: flex;
+}
+.box1 {
+  width: 30%;
+  height: 30%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  margin-left: 150px;
+  padding: 40px;
+}
+.box1 h3 {
+  margin-left: 30px;
+}
+.box2 {
+  width: 30%;
+  height: 30%;
+  background-color: white;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  padding: 40px;
+}
+.box2 h3 {
+  margin-left: 30px;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+footer h3 {
+  margin-left: 120px;
+}
+footer p {
+  margin-left: 120px;
+}
+
+.flexbox5 {
+  display: flex;
+  justify-content: space-around;
+}
+.flexbox5 ul {
+  display: grid;
+  text-align: start;
+}
+.flexbox5 ul li {
+  margin-top: 15px;
+}
+.designer{
+  text-align: center;
+}
